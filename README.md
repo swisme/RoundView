@@ -11,12 +11,14 @@
 		}
 	}
 
+
   2.Add the dependency
 
     dependencies {
 	        implementation 'com.github.ShadowWalkerGIT:RoundView:v1.0.0'
 	  }
- 
+
+
  3.具体使用
   3.1设置圆角，比如现在有个FrameLayout需要设置成圆角，调用以下代码
      ViewStyleSetter viewStyleSetter = new ViewStyleSetter(frameLayout);

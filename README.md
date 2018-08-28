@@ -34,3 +34,5 @@
             viewStyleSetter.setOval();	    
         }
   3.3实现圆形效果是以矩形较短的边为直径，矩形中心点为圆心的一个圆形区域
+  
+ 4.支持ImageView、View、ViewGroup
